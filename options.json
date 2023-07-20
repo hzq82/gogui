@@ -1,0 +1,70 @@
+[
+   {
+      "label": "测试中",
+      "value": "192.168.102.50,"
+   },
+  {
+     "label": "IHDouMall",
+     "value": "192.168.113.83,192.168.113.84"
+  },
+  {
+     "label": "IHDouWebService",
+     "value": "192.168.113.87,192.168.113.88"
+  },
+  {
+     "label": "IHDouOmsService",
+     "value": "192.168.113.89,192.168.113.90"
+  },
+  {
+     "label": "IHDouSearchSev",
+     "value": "192.168.113.133,192.168.113.134"
+  },
+  {
+     "label": "IHDouCrmService",
+     "value": "192.168.113.93,192.168.113.94"
+  },
+  {
+     "label": "IHDouB2B1",
+     "value": "192.168.113.103,192.168.113.104"
+  },
+  {
+     "label": "IHDouB2B2",
+     "value": "192.168.113.95,192.168.113.96"
+  },
+  {
+     "label": "IHDouProductService",
+     "value": "192.168.113.91,192.168.113.92"
+  },
+  {
+     "label": "IHDouAftersalesService",
+     "value": "192.168.113.105,192.168.113.106"
+  },
+  {
+     "label": "IHDouApiWallet",
+     "value": "192.168.113.54,192.168.113.55"
+  },
+  {
+     "label": "IHDouApiBusiness",
+     "value": "192.168.113.107,192.168.113.108"
+  },
+  {
+     "label": "IHDouMallApp",
+     "value": "192.168.113.111,192.168.113.112"
+  },
+  {
+     "label": "IHDouBI",
+     "value": "192.168.113.117,192.168.113.118"
+  },
+  {
+     "label": "IHDouApiPay",
+     "value": "192.168.113.54,192.168.113.55"
+  },
+  {
+     "label": "IHDouServerBusiness",
+     "value": "192.168.113.70,192.168.113.71"
+  },
+  {
+     "label": "ihdou",
+     "value": "192.168.113.81,192.168.113.82"
+  }
+]
